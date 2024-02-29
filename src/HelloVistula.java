@@ -1,6 +1,5 @@
 public class HelloVistula {
     public static void main(String[] args) {
         System.out.println("Hello Vistula!");
-        System.out.println("This is the first task");
     }
 }
